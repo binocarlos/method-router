@@ -1,0 +1,29 @@
+{
+  "name": "method-router",
+  "version": "0.0.1",
+  "description": "Return a filter function for http-requests for get,post,put,delete - works well with routes-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/method-router.git"
+  },
+  "keywords": [
+    "http",
+    "method",
+    "router",
+    "filter"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/method-router/issues"
+  },
+  "homepage": "https://github.com/binocarlos/method-router",
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "~2.1.0"
+  }
+}

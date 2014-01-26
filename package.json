@@ -1,6 +1,6 @@
 {
   "name": "method-router",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Return a filter function for http-requests for get,post,put,delete - works well with routes-router",
   "main": "index.js",
   "scripts": {
